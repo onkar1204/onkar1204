@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- #### My Github Stats
+#### My Github Stats
 <p align="center">
 <a href="https://github.com/onkar1204/github-readme-stats"><img alt="ONKAR AHIRKAR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=onkar1204&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
 </p>
--->
+
 
 ####    My Github Streaks
 
