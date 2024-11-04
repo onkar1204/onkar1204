@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Top Languages
 <p align="center">
-<a href="https://github.com/sawwalakhepallavi/github-readme-stats"><img alt="PALLAVI SAWWALAKHE's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawwalakhepallavi&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939&text_color=e6b400&border_radius=20"/></a>
+<a href="https://github.com/onkar1204/github-readme-stats"><img alt="ONKAR AHIRKAR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar1204&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939&text_color=e6b400&border_radius=20"/></a>
 </p>
 
 <img  src="https://github.com/onkar1204/onkar1204/blob/main/image/borderseperator.gif">
