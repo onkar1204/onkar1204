@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <div align="center">
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar1204&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=onkar1204&label=Profile%20views&color=0e75b6&style=flat" /><p/>
 ![MasterHead(banner1.gif)](onkarahirkar.gif)
-</div>
+
+   </div> 
 
 ---
 
