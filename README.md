@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 </p>
 
 
+## 📊 My GitHub Stats
+
+![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=onkar1204&show_icons=true&count_private=true)
+
+
 
 
 
