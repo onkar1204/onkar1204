@@ -5,13 +5,7 @@
 ![MasterHead(banner1.gif)](onkarahirkar.gif)
 
    </div> 
-   <h2  align="center">📫 Connect on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/anshul-markwade-09207b1b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/AnshulMarkwade"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="anshul.markwade786@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Anshul0707" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</p>
+
 <!--
 **onkar1204/onkar1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
